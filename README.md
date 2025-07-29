@@ -1,4 +1,5 @@
 **Real-Time Stock Market Ticker (INR) — Built with Go:**
+
 A real-time stock market ticker built in Golang that simulates INR-based stock price updates for Indiancompanies using Goroutines and Channels. It features a colorful, responsive web UI with search and auto-refresh, ideal for learning concurrency and live data rendering in Go.
 
 **Key Concepts:**
