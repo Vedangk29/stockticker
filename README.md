@@ -82,6 +82,7 @@ Edit
 http://localhost:8080
 
 **Live UI Preview:**
+
 The UI refreshes every 5 seconds and highlights stock prices and last update timestamps with stylish formatting.
 
 Dark mode
@@ -92,6 +93,7 @@ Mobile responsive layout
 
 
 **Learning Outcomes:**
+
 Real-world use of Goroutines and channels
 
 Building responsive web apps in Go
